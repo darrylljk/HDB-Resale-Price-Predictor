@@ -1,6 +1,6 @@
 # HDB Resale Price Predictor
 
-I've created this app to help make predicting Singapore's HDB resale flat prices easier and more accessible. By leveraging Random Forest regression, the prediction model provides reliable price estimates based on the flat details you input. 
+I've created this web app to help make predicting Singapore's HDB resale flat prices easier and more accessible. By leveraging Random Forest regression, the prediction model provides reliable price estimates based on the flat details you input. 
 
 Beyond predictions, the app includes a variety of visualizations and analyses to shed light on the factors influencing resale prices. Whether you're exploring the market as a buyer, seller, or just curious, this tool is designed to offer useful insights into Singapore's housing landscape.
 
