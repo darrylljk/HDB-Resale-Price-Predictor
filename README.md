@@ -37,7 +37,7 @@ and more
 ### 2. Analysis & Insights
 ![Analysis and Insights](https://github.com/user-attachments/assets/d447fc54-be55-4d94-88c3-98b3be162484)
 
-## Technology stack
+## Technology Stack
 - **Frontend:** Streamlit
 - **Backend:** Python
 - **Machine Learning:** Scikit-learn
