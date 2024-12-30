@@ -31,7 +31,7 @@ Dive into the key factors influencing HDB resale prices through interactive and 
 - correlation between features
 and more
 
-## Gallery
+## App Screenshots
 ### 1. HDB Resale Price Predictor (Random Forest)
 ![Prediction Model](https://github.com/user-attachments/assets/3aa6b273-8c67-4181-945a-89acec90784f)
 ### 2. Analysis & Insights
