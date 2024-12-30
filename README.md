@@ -11,7 +11,7 @@ Beyond predictions, the app includes a variety of visualizations and analyses to
   - install dependencies: `pip install -r requirements.txt`
   - launch streamlit app: `streamlit run HDB_Resale_Price_Predictor.py`
 
-## App Modules
+## App Features
 ### 1. HDB Resale Price Predictor (Random Forest)
 Accurately predict Singapore HDB resale flat prices using Random Forest regression model
 - Predictive model trained on 2023 and 2024 HDB resale transaction data
